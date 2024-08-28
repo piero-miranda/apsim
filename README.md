@@ -6,3 +6,15 @@
 - Estefany Valverde
 - Piero Miranda
 - Alex Paredes
+
+
+TITULO DEL PAPER:  Fully automatic wound segmentation with deep convolutional neural networks
+
+
+
+Link: 
+PROBLEMÁTICA:
+
+METODOLOGÍA:
+RESULTADOS:
+
