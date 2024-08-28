@@ -8,7 +8,8 @@
 - Alex Paredes
 
 
-TITULO DEL PAPER:  Fully automatic wound segmentation with deep convolutional neural networks
+
+## TITULO:  Fully automatic wound segmentation with deep convolutional neural networks
 - Link: https://www.nature.com/articles/s41598-020-78799-w#Sec5 
 
 Abstract:
