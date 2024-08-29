@@ -1,9 +1,0 @@
-a
-##PROBLEMÁTICA
-El problema central del artículo se enfoca en la carga significativa que representan las heridas agudas y crónicas para los sistemas de salud, 
-debido a su costoso tratamiento y la necesidad de hospitalización adicional. Estas heridas, especialmente las crónicas, no siguen un proceso de 
-curación predecible, lo que hace crucial una medición precisa del área de la herida para evaluar el progreso de la cicatrización y determinar futuras 
-intervenciones. Sin embargo, la medición manual de las heridas es ineficiente y propensa a errores, lo que puede impactar negativamente en el tratamiento 
-del paciente. Para resolver estos problemas, el artículo propone una solución de segmentación automática de imágenes de heridas utilizando redes neuronales
-profundas, en particular una red basada en MobileNetV2, que busca mejorar la eficiencia y precisión en la segmentación de imágenes de heridas, superando 
-las limitaciones de métodos tradicionales y de otros enfoques basados en redes neuronales convolucionales.
