@@ -2,10 +2,10 @@
 ### 2024-1
 
 ## Integrantes
-- Rosmy Postigo
-- Estefany Valverde
-- Piero Miranda
-- Alexander Paredes
+- Rosmy Postigo rosmy.postigo@upch.pe
+- Estefany Valverde estefany.valverde@upch.pe
+- Piero Miranda piero.miranda@upch.pe
+- Alexander Paredes alexander.paredes@upch.pe
 
 
 
