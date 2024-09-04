@@ -5,14 +5,15 @@
 
 - Estefany Valverde - estefany.valverde@upch.pe <br>
 <div align="center">
-<img src="https://github.com/piero-miranda/apsim/blob/main/Figures/Miembros%20del%20equipo/EV.jpeg" alt="L" width="100"/>
+<img src="https://github.com/piero-miranda/apsim/blob/main/Figures/Miembros%20del%20equipo/EV.jpeg" alt="L" width="200"/>
 </div>
 - Rosmy Postigo - rosmy.postigo@upch.pe <br>
-<img src="https://github.com/piero-miranda/apsim/blob/main/Figures/Miembros%20del%20equipo/RP1.jpeg" alt="L" width="100"/>
+<div align="center">
+<img src="https://github.com/piero-miranda/apsim/blob/main/Figures/Miembros%20del%20equipo/RP1.jpeg" alt="L" width="200"/>
 </div>
 - Piero Miranda - piero.miranda@upch.pe <br>
 <div align="center">
-<img src="https://github.com/piero-miranda/apsim/blob/main/Figures/Miembros%20del%20equipo/PM.jpeg" alt="L" width="100"/>
+<img src="https://github.com/piero-miranda/apsim/blob/main/Figures/Miembros%20del%20equipo/PM.jpeg" alt="L" width="200"/>
 </div>
 - Alexander Paredes - alexander.paredes@upch.pe <br>
 <div align="center">
