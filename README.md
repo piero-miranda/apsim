@@ -20,7 +20,7 @@
 
 - Alexander Paredes - alexander.paredes@upch.pe <br>
 <div align="center">
-<img src="https://github.com/piero-miranda/apsim/blob/main/Figures/Miembros%20del%20equipo/AP.jpeg" alt="L" width="200"/>
+<img src="https://github.com/piero-miranda/apsim/blob/main/Figures/Miembros%20del%20equipo/AP.png" alt="L" width="200"/>
 </div>
 
 
