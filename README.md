@@ -3,12 +3,12 @@
 
 ## Integrantes
 
-- Estefany Valverde - estefany.valverde@upch.pe
+- Estefany Valverde - estefany.valverde@upch.pe <br>
 <img src="https://github.com/piero-miranda/apsim/blob/main/Figures/Miembros%20del%20equipo/EV.jpeg" alt="L" width="100"/>
-- Rosmy Postigo - rosmy.postigo@upch.pe
+- Rosmy Postigo - rosmy.postigo@upch.pe <br>
 <img src="https://github.com/piero-miranda/apsim/blob/main/Figures/Miembros%20del%20equipo/RP1.jpeg" alt="L" width="100"/>
-- Piero Miranda - piero.miranda@upch.pe
-- Alexander Paredes - alexander.paredes@upch.pe
+- Piero Miranda - piero.miranda@upch.pe <br>
+- Alexander Paredes - alexander.paredes@upch.pe <br>
 
 
 
