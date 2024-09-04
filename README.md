@@ -5,7 +5,7 @@
 - Rosmy Postigo
 - Estefany Valverde
 - Piero Miranda
-- Alex Paredes
+- Alexander Paredes
 
 
 
