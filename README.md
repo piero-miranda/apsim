@@ -2,8 +2,10 @@
 ### 2024-1
 
 ## Integrantes
-- Rosmy Postigo - rosmy.postigo@upch.pe
+
 - Estefany Valverde - estefany.valverde@upch.pe
+- Rosmy Postigo - rosmy.postigo@upch.pe
+  ![Descripción de la imagen](https://github.com/piero-miranda/apsim/blob/main/Figures/Miembros%20del%20equipo/RP1.jpeg)
 - Piero Miranda - piero.miranda@upch.pe
 - Alexander Paredes - alexander.paredes@upch.pe
 
