@@ -28,6 +28,8 @@
 ## Fully automatic wound segmentation with deep convolutional neural networks
 - Link artículo: https://www.nature.com/articles/s41598-020-78799-w#Sec5
 - Link Github del artículo: https://github.com/uwm-bigdata/wound-segmentation/tree/master
+- Link del canva: https://www.canva.com/design/DAGTeebmYwg/8DJXrvRTqig4-zq8E1NgeQ/edit
+- Link de las imagenes: https://drive.google.com/drive/folders/1kvJpkFDuqOeSDVCxeZ4r-HVEfhSksxut?usp=sharing
 
 Abstract:
 El artículo propone un modelo de segmentación automática de heridas basado en la arquitectura MobileNetV2, que es ligero y eficiente en términos computacionales. Este modelo tiene como objetivo mejorar la precisión en la medición y gestión de heridas mediante la segmentación automática en imágenes naturales, lo cual es esencial para el tratamiento adecuado de heridas agudas y crónicas (problemática). En el paper se crearon un conjunto de datos significativo con 1109 imágenes de úlceras del pie para entrenar y validar el modelo, demostrando su eficacia y comparándola favorablemente con otros enfoques de redes neuronales más complejas. La implementación completa del modelo está disponible públicamente. 
